@@ -1,3 +1,6 @@
+<p>Hi,</p>
+<p>welcome to scratcher website.</p>
+<p>this is an demo of this website</p>
 <p>&nbsp;</p>
 <h3 style="text-align: center; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Klicken sie hier </span> um diesen text zu bearbeiten, oder f&uuml;gen sie Ihr dokument hier ein, um es in HTML 😁</h3>
 <!-- Dieser kommentar ist nur im quelltext-editor sichtbar. -->
